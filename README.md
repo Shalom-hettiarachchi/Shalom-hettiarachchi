@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shalom-hettiarachchi-bb1914376"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/Shalom-Hettiarachchi-bb1914376"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shalomhettiarachchi888@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -88,18 +88,7 @@ Clean Architecture • OOP • RBAC • Secure Coding • Agile • REST APIs �
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalom-hettiarachchi&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalom-hettiarachchi&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalom-hettiarachchi&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 🎓 Education
 
@@ -114,10 +103,10 @@ Clean Architecture • OOP • RBAC • Secure Coding • Agile • REST APIs �
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shalom-hettiarachchi-bb1914376"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/Shalom-Hettiarachchi-bb1914376"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shalomhettiarachchi888@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shalom-hettiarachchi&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Shalom-Hettiarachchi&color=blue" alt="Profile views" />
 </p>
